@@ -1,6 +1,6 @@
 # Unit Testing Guidelines
 
-1. Always add unit test for greenfield business logic code, and always add/refactor unit tests for refactored business logic code.
+1. Always add unit test for new business logic code, and always add/refactor unit tests for refactored business logic code.
 2. Unit test code must be evaluated with the same level of quality as business logic code.
 3. Any implicit unit test behavior, should be written explictily.
 3. Make it easy to write new unit tests.
