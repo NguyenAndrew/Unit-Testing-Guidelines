@@ -6,3 +6,4 @@
 3. Make it easy to write new unit tests.
 4. Make it easy to refactor existing unit tests.
 5. Limit behavior of injected dependencies for any-and-all methods under tests. For any given unit test, do not overmock your mocks, and restrict the behavior of non-mocked dependencies to only expose required functionality.
+6. All unit tests must run in a reasonable amount of time.
